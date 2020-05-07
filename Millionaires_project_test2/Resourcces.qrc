@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/icons8-phone-50.png</file>
+    </qresource>
+    <qresource prefix="/questions">
+        <file>questions/plik.txt</file>
+        <file>questions/pytaniatest1.txt</file>
+    </qresource>
+</RCC>
