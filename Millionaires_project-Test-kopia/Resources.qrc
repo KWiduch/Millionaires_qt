@@ -1,7 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>icons/icons8-phone-50.png</file>
-        <file>questions/plik.txt</file>
-        <file>questions/pytaniatest1.txt</file>
-    </qresource>
-</RCC>
