@@ -1,1 +1,2 @@
-# Millionaires_project
+# Projekt zaliczeniowy 
+*c
