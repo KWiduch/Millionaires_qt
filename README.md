@@ -9,7 +9,7 @@
 * progi bezpieczeństwa, umożliwiają graczowi możliwość dlaszej gry bez utraty aktualnej wygranej
 
 ### Interfejs gry: </br>
-https://github.com/KWiduch/Millionaires_qt/blob/master/interfejsmilionerzy.png
+![picture](https://github.com/KWiduch/Millionaires_qt/blob/master/interfejsmilionerzy.png)
 
 ### Autorzy Projektu: </br>
 * [Szymon Cwynar](https://github.com/SzymCwy)</br>
