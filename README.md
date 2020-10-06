@@ -1,4 +1,4 @@
-# Projekt zaliczeniowy 
+# Projekt zaliczeniowy sem 2
 
 
 
